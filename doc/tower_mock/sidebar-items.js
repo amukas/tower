@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["error","Error types"],["future","Future types"]],"struct":[["Handle","Handle to the `Mock`."],["Mock","A mock service"],["Request",""],["Respond","Respond to a request received by `Mock`."]]});

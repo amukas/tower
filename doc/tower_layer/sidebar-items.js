@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["util","Types and utilities for working with `Layer`."]],"trait":[["Layer","Decorates a `Service`, transforming either the request or the response."]]});

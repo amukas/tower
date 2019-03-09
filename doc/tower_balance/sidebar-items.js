@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["choose",""],["error",""],["load",""],["pool","This module defines a load-balanced pool of services that adds new services when load is high."]],"struct":[["Balance","Balances requests across a set of inner services."],["ResponseFuture",""]]});

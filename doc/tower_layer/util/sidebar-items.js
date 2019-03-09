@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ChainError","Error's produced when chaining two layers together"]],"struct":[["Chain","Two middlewares chained together."]],"trait":[["LayerExt","An extension trait for `Layer`'s that provides a variety of convenient adapters."]]});
